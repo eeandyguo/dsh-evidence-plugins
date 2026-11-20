@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "备份验证",
+    "description": "把 zip 或目录真还原到临时目录，逐文件比对 sha256，抽样打开 Office 与 sqlite 文件。",
+    "detail": "docs/DETAIL.md"
+  }
+}

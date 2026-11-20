@@ -1,0 +1,3 @@
+- insert:
+    - id: backup-verify
+      name: 'dsh-backup-verify'

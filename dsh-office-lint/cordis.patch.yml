@@ -1,0 +1,5 @@
+- insert:
+    - id: office-lint
+      name: 'dsh-office-lint'
+      config:
+        renderer: auto

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Office 版式质检",
+    "description": "对 docx/pptx 只报客观项：空白页、图片有效分辨率、字体替换、自动缩字、图表引用不一致。",
+    "detail": "docs/DETAIL.md"
+  }
+}

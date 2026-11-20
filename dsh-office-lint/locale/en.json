@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Office layout lint",
+    "description": "Objective checks on .docx/.pptx: blank pages, effective image DPI, font substitution, auto-shrink, chart reference mismatch.",
+    "detail": "docs/DETAIL.md"
+  }
+}

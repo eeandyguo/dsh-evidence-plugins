@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "改稿对账",
+    "description": "按语义块对比新旧 LaTeX 稿；给申报单时逐块判「已申报 / 未申报 / 申报未改」。",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Backup verify",
+    "description": "Restore a .zip or directory into a temp dir, compare every file sha256, sample-open office and sqlite archives.",
+    "detail": "docs/DETAIL.md"
+  }
+}

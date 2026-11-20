@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Statistical tests",
+    "description": "Run t-test, ANOVA, chi-square, Mann-Whitney or Kruskal-Wallis on a CSV, with effect size and precondition checks.",
+    "detail": "docs/DETAIL.md"
+  }
+}

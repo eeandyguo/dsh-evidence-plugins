@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "统计检验",
+    "description": "对 CSV 跑 t 检验、方差分析、卡方、Mann-Whitney 或 Kruskal-Wallis，输出统计量、p 值、效应量与前提检查。",
+    "detail": "docs/DETAIL.md"
+  }
+}

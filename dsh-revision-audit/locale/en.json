@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Revision audit",
+    "description": "Diff two LaTeX revisions by semantic block; with a declaration sheet, mark each block declared or undeclared.",
+    "detail": "docs/DETAIL.md"
+  }
+}

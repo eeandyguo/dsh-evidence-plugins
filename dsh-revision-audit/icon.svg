@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Evidence toolkit">
+  <rect x="3" y="3" width="58" height="58" rx="14" fill="#1f3a5f"/>
+  <path d="M18 13h17l9 9v17a2 2 0 0 1-2 2H18a2 2 0 0 1-2-2V15a2 2 0 0 1 2-2z" fill="#f5f7fa"/>
+  <path d="M35 13v9h9" fill="none" stroke="#1f3a5f" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M23 30h14M23 36h14M23 42h8" stroke="#3c5a7d" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="45" cy="45" r="10" fill="#2bb3a3"/>
+  <path d="M40.5 45.2l3.2 3.2 5.6-6.4" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
