@@ -35,5 +35,10 @@
   "engines": {
     "dsh": ">=0.2.2-rc.3 <0.3.0-0"
   },
-  "author": "eeandyguo"
+  "author": "eeandyguo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eeandyguo/dsh-evidence-plugins",
+    "directory": "dsh-office-lint"
+  }
 }
